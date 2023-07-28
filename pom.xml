@@ -150,6 +150,7 @@
                         <exclude>files/**/*</exclude>
                         <exclude>jars/**/*</exclude>
                         <exclude>*.html</exclude>
+                        <exclude>.github/**/*</exclude>
                     </excludes>
                 </configuration>
             </plugin>
